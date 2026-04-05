@@ -9,7 +9,7 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 - 🌸 I’m currently exploring **agent building, AWS, and Unity** through independent projects  
 - 💻 I’m looking to collaborate on **interactive apps, data analytics, and user-focused software projects**  
 - 🫧 I’m looking for guidance in **cloud deployment, agent development, and expanding full-stack project scope**  
-- 📊 Ask me about **mathematical modeling, database integration, algorithm design, and full-stack project development**  
+- 📊 Ask me about **mathematical modeling, database integration, and full-stack project development**  
 - 🤍 Pronouns: **She/Her**  
 - 🎧☕️ Fun fact: You will rarely catch me coding without headphones and a coffee nearby :)
 
