@@ -25,7 +25,7 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 ## 📚 Projects
 - **Whack-a-Monster Game:** Python & Pygame (interactive game mechanics)
 - **React Crochet Project:** React & database integration (full-stack web app)
-- **CSC 250 Financial Calculator App (Group Project):** Java Swing GUI, multiple financial calculators; collaborated in an agile team with version control via Git.
+- **Financial Calculator App (Group Project):** Java Swing GUI, multiple financial calculators; collaborated in an agile team with version control via Git.
 - **Thermal Modeling of Building Temperature:** Python (differential equation simulations)
 
 ---
