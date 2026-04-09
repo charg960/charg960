@@ -2,7 +2,7 @@
 
 I’m a Math & Computer Science double major at Maryville College with minors in Data Analysis, Statistics, and Analytics.  
 
-👩‍💻 I'm most passionate about **database management, full-stack development, and mathematical modeling**, with a focus on **designing intuitive user experiences and integrating robust data systems**. I use **computational and data-driven approaches** to solve problems, streamline workflows, and analyze complex systems. I thrive on **tackling problems that span multiple disciplines**, learning from experts in each area, and contributing to team solutions through collaboration and shared insight, including in **agile team environments**. I particularly enjoy building **scalable, user-friendly applications** that combine **database design, front-end interfaces, and iterative development**.
+👩‍💻 I'm most passionate about **database management, full-stack development, and mathematical modeling**, with a focus on **designing intuitive user experiences and integrating robust data systems**. I use **computational and data-driven approaches** to solve problems, streamline workflows, and analyze complex systems. I thrive on **tackling problems that span multiple disciplines**, learning from experts in each area, and contributing to team solutions through collaboration and shared insight, including in agile team environments. I particularly enjoy building user-friendly applications that combine **database design, front-end interfaces, and iterative development**.
 
 ---
 
