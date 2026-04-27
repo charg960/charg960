@@ -23,13 +23,13 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 ---
 
 ## 📚 Projects
-- **[Personal Organizer App](https://github.com/your-username/personal-organizer-app):** React, HTML, CSS, JSX  
+- **[Personal Organizer App](https://github.com/charg960/cute-calendar):** React, HTML, CSS, JSX  
   A lightweight, customizable personal dashboard for managing daily tools like a to-do list, calendar, and math notes. Built as a Notion-style workspace focused on personal productivity and UI experimentation.
-- **[Satellite Classification of Wildfire Behavior](https://github.com/charg960/your-repo):** R, Data Mining, Machine Learning  
+- **[Satellite Classification of Wildfire Behavior](https://github.com/charg960/SatelliteClassificationForWildfirePredictionAndManagement):** R, Data Mining, Machine Learning 
   Explored satellite-derived wildfire data to classify fire behavior using machine learning methods. Focused on distinguishing day vs night fire activity and predicting fire intensity levels (Low, Medium, High) using thermal and temporal features. Evaluated model misclassifications to identify opportunities for improving performance.
 - **[Whack-a-Monster Game](https://github.com/charg960/whack-a-monster):** Python & Pygame; interactive game mechanics
   An interactive arcade-style game built through an iterative development process, incorporating user feedback to shape gameplay features, visual design, and mechanics. Emphasized graphics, timing, and reaction-based interactions, with continuous adjustments made to align with player preferences and improve overall engagement.
-- **React Crochet Project:** React & database integration; full-stack web app
+- **[React Crochet Project](https://github.com/charg960/CharsCrochetCorner):** React & database integration; full-stack web app
   A full-stack web application developed to manage crochet projects and patterns, emphasizing end-to-end application development and database integration using a MySQL database managed through phpMyAdmin.
 - **[Financial Calculator App (Group Project)](https://github.com/charg960/CSC250-Financial-Calculator):** Java Swing GUI, multiple financial calculators; collaborated in an agile team with version control via Git
 - **Thermal Modeling of Building Temperature:** Python; differential equation simulations
