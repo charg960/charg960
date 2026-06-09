@@ -11,7 +11,7 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 - 🌸 **I’m currently exploring:** Unity-based simulations, machine learning pipelines, and dynamical systems—particularly fluid and plasma energy dynamics. I am also actively developing a comprehensive Independent Research Project on Crime, Incarceration, and Economic Benefit using Bayesian hierarchical modeling (Stan/brms) and machine learning (tidymodels).
 - 💻 **I’m looking to collaborate on:** Scientific computing tools, interactive physics visualizations, machine learning applications, and data-heavy software projects.
 - 🫧 **I’m looking for guidance in:** High-performance computing (HPC), advanced surrogate modeling (UQ), and optimizing real-time simulations for physical systems.
-- 📊 **Ask me about:** Mathematical modeling, integrating data systems with front-end interfaces, and bridging the gap between computer science and astrophysics.
+- 📊 **Ask me about:** Mathematical modeling, integrating data systems with front-end interfaces, and bridging the gap between computer science and astrophysics. You can also ask me about my current work with MCMC inference and utilizing SHAP values for algorithmic explainability!
 - 🤍 **Pronouns:** She/Her
 - 🎧☕️ **Fun fact:** You will rarely catch me coding without headphones and a coffee nearby :)
 
