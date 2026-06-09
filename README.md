@@ -29,7 +29,7 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 
 ## 📚 Projects
 
-- **[Incarceration Policy Reform Impact Modeling](https://github.com/charg960/crime-incarceration-policy-modeling):** R, Stan (`brms`), `tidymodels`, Bayesian Statistics, Machine Learning
+- **[Incarceration Policy Reform Impact Modeling](https://github.com/charg960/crime-economics-policy-modeling):** R, Stan (`brms`), `tidymodels`, Bayesian Statistics, Machine Learning
 
 An independent, data-driven research project analyzing the economic and societal trade-offs of non-violent sentencing paths. Built a multi-tiered analytical pipeline utilizing macro-level country-year panel datasets and micro-level offender classification, incorporating Markov Chain Monte Carlo (MCMC) inference, prior elicitation, and SHAP values for algorithmic explainability. *(Currently In Progress)*
 - **[Personal Organizer App](https://github.com/charg960/cute-calendar):** React, HTML, CSS, JSX
