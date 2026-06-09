@@ -2,7 +2,7 @@
 
 I’m a Math & Computer Science double major at Maryville College with minors in Data Analysis, Statistics, and Analytics.  
 
-🚀 **Where My Passions Intersect:** I used to think my interests in astrophysics and computer science were competing goals. Now, I see them as entirely complementary! I see computer science as a necessary skill to explore complex physical systems. I am deeply passionate about mathematical modeling, fluid/astrophysical dynamics, and scientific computing, using full-stack development and robust database architecture to make high-dimensional data intuitive and accessible.
+🚀 **Where My Passions Intersect:** I used to think my interests in astrophysics and computer science were competing goals. Now, I know they are entirely complementary! I see computer science as a necessary skill to explore complex physical systems. I am deeply passionate about mathematical modeling, fluid/astrophysical dynamics, and scientific computing, using full-stack development and robust database architecture to make high-dimensional data intuitive and accessible.
 
 👩‍💻 **How I Build:** I use computational, data-driven approaches to solve problems and analyze complex systems. I thrive on tackling problems that span multiple disciplines. I really enjoy learning from experts in each area and contributing to team solutions through collaboration, including in agile environments! I particularly enjoy building user-friendly applications that combine back-end database design with front-end interfaces for scientific exploration.
 
