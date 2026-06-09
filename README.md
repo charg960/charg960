@@ -4,14 +4,14 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 
 🚀 **Where My Passions Intersect:** I used to think my interests in astrophysics and computer science were competing goals. Now, I know they are entirely complementary! I see computer science as a necessary skill to explore complex physical systems. I am deeply passionate about mathematical modeling, fluid/astrophysical dynamics, and scientific computing, using full-stack development and robust database architecture to make high-dimensional data intuitive and accessible.
 
-👩‍💻 **How I Build:** I use computational, data-driven approaches to solve problems and analyze complex systems. I thrive on tackling problems that span multiple disciplines. I really enjoy learning from experts in each area and contributing to team solutions through collaboration, including in agile environments! I particularly enjoy building user-friendly applications that combine back-end database design with front-end interfaces for scientific exploration.
+👩‍💻 **How I Build:** I use computational, data-driven approaches to solve problems and analyze complex systems. I thrive on tackling problems that span multiple disciplines. I really enjoy learning from experts in many areas and contributing to team solutions through collaboration, including in agile environments! I particularly enjoy building user-friendly applications that combine back-end database design with front-end interfaces for scientific exploration.
 
 ---
 
-🌸 **I’m currently exploring:** Unity-based simulations, machine learning pipelines, and dynamical systems—particularly fluid and plasma energy dynamics.
-💻 **I’m looking to collaborate on:** Scientific computing tools, interactive physics visualizations, machine learning applications, and data-heavy software projects.
-🫧 **I’m looking for guidance in:** High-performance computing (HPC), advanced surrogate modeling (UQ), and optimizing real-time simulations for physical systems.
-📊 **Ask me about:** Mathematical modeling, integrating data systems with front-end interfaces, and bridging the gap between computer science and astrophysics.
+- 🌸 **I’m currently exploring:** Unity-based simulations, machine learning pipelines, and dynamical systems—particularly fluid and plasma energy dynamics.
+- 💻 **I’m looking to collaborate on:** Scientific computing tools, interactive physics visualizations, machine learning applications, and data-heavy software projects.
+- 🫧 **I’m looking for guidance in:** High-performance computing (HPC), advanced surrogate modeling (UQ), and optimizing real-time simulations for physical systems.
+- 📊 **Ask me about:** Mathematical modeling, integrating data systems with front-end interfaces, and bridging the gap between computer science and astrophysics.
 - 🤍 **Pronouns:** She/Her
 - 🎧☕️ **Fun fact:** You will rarely catch me coding without headphones and a coffee nearby :)
 
