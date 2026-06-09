@@ -24,9 +24,11 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 - **Mathematical Modeling & Simulation:** ODE Modeling, Computational Numerical Methods, Linear & Abstract Algebra, Calculus III, Maple
 - **Data Science & ML:** Bayesian Inference (MCMC), Posterior Diagnostics, Predictive Modeling & Classification (Random Forest, Decision Trees), Data Mining
 - **Developer Tools:** Git/GitHub, Bash, LaTeX, VSCode, MAMP, Unity
+
 ---
 
 ## 📚 Projects
+
 - **[Personal Organizer App](https://github.com/charg960/cute-calendar):** React, HTML, CSS, JSX  
   A lightweight, customizable personal dashboard for managing daily tools like a to-do list, calendar, and math notes. Built as a Notion-style workspace focused on personal productivity and UI experimentation.
 - **[Satellite Classification of Wildfire Behavior](https://github.com/charg960/SatelliteClassificationForWildfirePredictionAndManagement):** R, Data Mining, Machine Learning 
@@ -41,5 +43,6 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 ---
 
 ## 🎀 Contact
+
 - School Email: charlotte.dickson@my.maryvillecollege.edu 
 - Personal Email: chargdickson@gmail.com 
