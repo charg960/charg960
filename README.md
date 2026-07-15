@@ -9,26 +9,28 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 ---
 
 - **I’m currently exploring:** Machine learning pipelines, dynamical systems (particularly fluid and plasma energy dynamics), and bridging biological processes with stochastic calculus and computer simulation. I am actively collaborating on a UMN project to mathematically model the processes of soft matter. Additionally, I temporarily paused my Independent Research Project that uses two convergent parallel pipelines to both analyze economic benefit and the effects of incarceration using Bayesian hierarchical modeling (Stan/brms) and machine learning (tidymodels).
-   **I’d love to collaborate on:** Scientific computing tools, interactive physics visualizations, machine learning applications, and data-heavy software projects.
-- **I’m looking for guidance in:** High-performance computing (HPC), advanced surrogate modeling (UQ), and optimizing real-time simulations for physical systems.
-- **Ask me about:** Mathematical modeling, fluid and cellular dynamics,energy minimization within systems, and bridging the gap between computer science and astrophysics. You can also ask me about my current work with MCMC inference and utilizing SHAP values for algorithmic explainability, or my collaboartive Research Project on mathematically modeling bacteriophage lifecycles and infection processes! 
+- **Let's talk:** I'd love to collaborate on mathematical and computational modeling of biological and physical systems, nonlinear dynamical systems, computational biology, and open-source scientific computing tools. I'm looking for guidance in HPC, uncertainty quantification, surrogate modeling, and numerical methods for differential equations. Ask me about energy minimization, fluid/cellular dynamics, bridging CS and astrophysics, or my current work on bacteriophage lifecycle modeling and Bayesian/ML methods (MCMC, SHAP) for policy analysis.
 - **Pronouns:** She/Her 🤍
 - **Fun fact:** You will rarely catch me coding without headphones and a coffee nearby 🎧☕️
 
 ---
 
-## 🛠️ Skills & Toolkit
+## Skills & Toolkit
 
 - **Programming Languages:** Python (NumPy, SciPy, Pandas, Matplotlib), R, MATLAB, Java, JavaScript, TypeScript, PHP, SQL
-- **Frameworks & Architecture:** React, Java Swing, OOP Design, Full-Stack Web Development, User State Management
-- **Mathematical Modeling & Simulation:** ODE Modeling, Computational Numerical Methods, Linear & Abstract Algebra, Calculus III, Maple
-- **Data Science & ML:** Bayesian Inference (MCMC), Posterior Diagnostics, Predictive Modeling & Classification (Random Forest, Decision Trees), Data Mining
-- **Developer Tools:** Git/GitHub, Bash, LaTeX, VSCode, MAMP, Unity
+- **Scientific Computing:** Numerical Linear Algebra, ODE & PDE Solvers, Scientific Programming, Computational Mathematics, Numerical Optimization
+- **Mathematical Modeling & Simulation:** Dynamical Systems, Mathematical Modeling of Biological & Physical Systems, ODE Modeling, Computational Numerical Methods, Finite Element Methods (Firedrake), Linear & Abstract Algebra, Maple
+- **Data Science & Machine Learning:** Bayesian Inference (MCMC), Posterior Diagnostics, Predictive Modeling & Classification (Random Forest, Decision Trees), Data Mining, Statistical Modeling
+- **Frameworks & Software Engineering:** React, Java Swing, Object-Oriented Programming (OOP), Full-Stack Web Development, State Management
+- **Developer Tools:** Git/GitHub, Bash, LaTeX, VS Code, Jupyter Notebooks, MAMP, Unity
+- **Scientific Software:** Firedrake, ParaView
 
 ---
+## Research Projects
+- **Mathematics of Soft Matter (UMN REU):** Python (NumPy, Matplotlib), MATLAB, Firedrake/FEM, Calculus of Variations, PDE Modeling
+An ongoing research project studying the biophysics of bacteriophage genome ejection and liquid crystal defect structures through a continuum mechanics and variational framework. Derived a free-energy functional for encapsidated DNA incorporating bending elasticity, electrostatics, and ionic entropy, and proved the bending term reduces to a curvature-dependent functional via vector calculus. Modeled the hexagonal packing of confined DNA using optimal circle-packing theory and visualized the resulting Bravais lattice structure computationally. *(Currently In Progress)*
 
-## 📚 Projects
-
+## Software Projects
 - **[Incarceration Policy Reform Impact Modeling](https://github.com/charg960/crime-economics-policy-modeling):** R, Stan (`brms`), `tidymodels`, Bayesian Statistics, Machine Learning
 
 An independent, data-driven research project analyzing the economic and societal trade-offs of non-violent sentencing paths. Built a multi-tiered analytical pipeline utilizing macro-level country-year panel datasets and micro-level offender classification, incorporating Markov Chain Monte Carlo (MCMC) inference, prior elicitation, and SHAP values for algorithmic explainability. *(Currently In Progress)*
