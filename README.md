@@ -28,7 +28,7 @@ I’m a Math & Computer Science double major at Maryville College with minors in
 ---
 ## Research Projects
 - **Mathematics of Soft Matter (UMN REU):** Python (NumPy, Matplotlib), MATLAB, Firedrake/FEM, Calculus of Variations, PDE Modeling
-An ongoing research project studying the biophysics of bacteriophage genome ejection and liquid crystal defect structures through a continuum mechanics and variational framework. Derived a free-energy functional for encapsidated DNA incorporating bending elasticity, electrostatics, and ionic entropy, and proved the bending term reduces to a curvature-dependent functional via vector calculus. Modeled the hexagonal packing of confined DNA using optimal circle-packing theory and visualized the resulting Bravais lattice structure computationally. *(Currently In Progress)*
+An ongoing research project studying the biophysics of bacteriophage genome ejection and liquid crystal defect structures through a continuum mechanics and variational framework. Derived a free-energy functional for encapsidated DNA incorporating bending elasticity, electrostatics, and ionic entropy, and proved the bending term reduces to a curvature-dependent functional via vector calculus. Proved via geometrical proof that densely packed DNA forms a hexagonal Bravais lattice, using optimal circle-packing theory, and visualized the resulting structure computationally. *(Currently In Progress)*
 
 ## Software Projects
 - **[Incarceration Policy Reform Impact Modeling](https://github.com/charg960/crime-economics-policy-modeling):** R, Stan (`brms`), `tidymodels`, Bayesian Statistics, Machine Learning
